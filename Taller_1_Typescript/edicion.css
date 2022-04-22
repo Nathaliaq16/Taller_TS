@@ -25,6 +25,9 @@ h2 {
 
 p {
     display: inline-block;
+    font: helvetica;
+
+
 }
 
 #div_avg {
@@ -32,4 +35,13 @@ p {
     width: 50%;
     margin-left: 80px;
     text-align: center;
+}
+
+.div_principal {
+    display: flex;
+}
+
+.card {
+    margin-top: 20px;
+    margin-left: 40px;
 }
